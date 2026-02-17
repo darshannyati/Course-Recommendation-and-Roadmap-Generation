@@ -1,0 +1,7 @@
+streamlit
+groq
+tavily-python
+langgraph
+langchain
+langchain-core
+pypdf
